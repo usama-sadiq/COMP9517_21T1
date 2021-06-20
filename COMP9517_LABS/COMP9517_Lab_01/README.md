@@ -2,13 +2,19 @@
 
 # AIM
 
+- Implement Contrast Stretching.
+- Compute histrogram of a gray image and plot it.
+- Implement a mean, median and gaussian filter.
+- Implement sobel operator to compute the image gradients 
+at x and y directions.
+
 # QUESTION 1  Contrast Stretching
 
 ## OBJECTIVE 
 
 - Read a grey scale image (cat.jpg) and perform contrast stretching to improve the quality of the image.
 
-## IMPLEMENTAION
+## IMPLEMENTATION
 
 - Read the image "cat.png".
 - Convert the image from BRG to RGB.
@@ -40,7 +46,7 @@
 
 - Use this function to now create and plot a histogram for the original image and the contrast stretched image (output of question 1).
 
-## IMPLEMENTAION
+## IMPLEMENTATION
 
 - Plot the original image and histrogram of the original image.
 
