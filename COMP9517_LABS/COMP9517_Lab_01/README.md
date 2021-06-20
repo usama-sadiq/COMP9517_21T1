@@ -85,3 +85,28 @@ functions). Perform noise removal on the output image from question 1 using thes
 ### Gaussian filter Output
 
 ![Alt text](./question_3_3_result.png "Gaussain filter Output")
+
+# QUESTION 4  Image Edges
+
+## OBJECTIVE
+
+- Use the median filter output image, use the Sobel operator to compute the image gradients 
+at x and y directions.
+- Note, that you should not use the built-in Sobel functions to do this, 
+instead you should create the filters from scratch.
+
+## IMPLEMENTATION
+
+- Define the filters fx and fy
+- Perform convolution between the median filter image and the fx.
+- Perform convolution between the median fitler image and the fy.
+
+## OUTPUTS
+
+## Convolution between the median filter image and the fx.
+
+![Alt text](./question_4_1_result.png "Img and fx")
+
+## Convolution between the median filter image and the fy.
+
+![Alt text](./question_4_2_result.png "Img and fy")
