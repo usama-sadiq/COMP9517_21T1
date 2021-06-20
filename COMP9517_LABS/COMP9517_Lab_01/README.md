@@ -31,3 +31,27 @@
 ## RESULTS
 
 ![Alt text](./question_1_result.png "Contrast Stretching Formula")
+
+# QUESTION 2  HISTROGRAM OF AN IMAGE
+
+## OBJECTIVE
+
+- Write a function that computes the histogram of the given grey scale image and displays a plot. Do NOT use built-in OpenCV functions for this purpose.
+
+- Use this function to now create and plot a histogram for the original image and the contrast stretched image (output of question 1).
+
+## IMPLEMENTAION
+
+- Plot the original image and histrogram of the original image.
+
+- Plot the contrast stretched image and histrogram of the contrast stretched image.
+
+## RESULTS
+
+### Original Image and Histrogram of the original image.
+
+![Alt text](./question_2_1_result.png "original image and histrogram of the original image")
+
+### Contrast Stretched Image and Histrogram of the contrast stretched image.
+
+![Alt text](./question_2_1_result.png "original image and histrogram of the original image")
