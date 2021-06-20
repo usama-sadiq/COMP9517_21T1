@@ -55,3 +55,33 @@
 ### Contrast Stretched Image and Histrogram of the contrast stretched image.
 
 ![Alt text](./question_2_1_result.png "original image and histrogram of the original image")
+
+#  QUESTION 3  SMOOTHING FILTERS (LOW-PASS FILTERS) 
+
+## OBJECTIVE
+
+- Implement a mean filter, median filter and a gaussian filter (without using OpenCV 
+functions). Perform noise removal on the output image from question 1 using these filters.
+
+## IMPLEMENTATION
+
+- Implement convolve2D operation.
+- Define the mean filter matrix.
+- Perform Convolve2D operation between Output Image of question 1 and Mean Filter.
+- Implement median filter function.
+- Implement Gaussian Matrix function.
+- Perform Convolve2D operation between output image of question 1 and gaussain matrix.
+
+## RESULTS
+
+### Mean filter Output
+
+![Alt text](./question_3_1_result.png "Mean filter output")
+
+### Median filter Output
+
+![Alt text](./question_3_2_result.png "Median filter Output")
+
+### Gaussian filter Output
+
+![Alt text](./question_3_3_result.png "Gaussain filter Output")
