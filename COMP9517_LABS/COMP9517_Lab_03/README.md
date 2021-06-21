@@ -90,7 +90,7 @@
 
 <table>
     <tr>
-        <th colspan="4">KNN Classification Report</th>
+        <th colspan="5">KNN Classification Report</th>
     </tr>
     <tr>
         <td>Precision</td>
@@ -216,7 +216,7 @@
 
 <table>
     <tr>
-        <th colspan="4">SGD Classification Report</th>
+        <th colspan="5">SGD Classification Report</th>
     </tr>
     <tr>
         <td>Precision</td>
@@ -342,7 +342,7 @@
 
 <table>
     <tr>
-        <th colspan="4">DT Classification Report</th>
+        <th colspan="5">DT Classification Report</th>
     </tr>
     <tr>
         <td>Precision</td>
