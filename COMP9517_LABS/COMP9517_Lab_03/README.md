@@ -99,6 +99,7 @@
         <td>Support</td>
     </tr>
     <tr>
+        <td></td>
         <td>T_shirt/top</td>
         <td>0.78</td>
         <td>0.84</td>
