@@ -93,13 +93,13 @@
         <th colspan="5">KNN Classification Report</th>
     </tr>
     <tr>
+        <td></td>
         <td>Precision</td>
         <td>Recall</td>
         <td>F1-Score</td>
         <td>Support</td>
     </tr>
     <tr>
-        <td></td>
         <td>T_shirt/top</td>
         <td>0.78</td>
         <td>0.84</td>
@@ -170,6 +170,7 @@
         <td>48</td>
     </tr>
     <tr>
+        <td colspan=5></td>
     </tr>
     <tr>
         <td>accuracy</td>
@@ -220,6 +221,7 @@
         <th colspan="5">SGD Classification Report</th>
     </tr>
     <tr>
+        <td></td>
         <td>Precision</td>
         <td>Recall</td>
         <td>F1-Score</td>
@@ -295,6 +297,7 @@
         <td>0.89</td>
         <td>48</td>
     </tr>
+        <td colspan="5"></td>
     <tr>
     </tr>
     <tr>
@@ -346,6 +349,7 @@
         <th colspan="5">DT Classification Report</th>
     </tr>
     <tr>
+        <td></td>
         <td>Precision</td>
         <td>Recall</td>
         <td>F1-Score</td>
@@ -422,6 +426,7 @@
         <td>48</td>
     </tr>
     <tr>
+        <td colspan="5"></td>
     </tr>
     <tr>
         <td>accuracy</td>
