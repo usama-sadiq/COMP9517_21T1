@@ -143,19 +143,17 @@ COMP9517_Project/COMP9517_Individual_Part/Data/COMP_9517_Project__Annotations/im
 COMP9517_Project/COMP9517_Individual_Part/Data/COMP_9517_Project__Annotations/images/thumb/
 
 #### GROUP PROJECT FILES
-COMP9517_Project/coco.names
 COMP9517_Project/COMP9517_Individual_Part/Data/COMP_9517_Project__Annotations/
 COMP9517_Project/Data/
 COMP9517_Project/Hog features.ipynb
 COMP9517_Project/Untitled.ipynb
 COMP9517_Project/Untitled1.ipynb
-COMP9517_Project/YOLO implementation.ipynb
-COMP9517_Project/YOLO_bboxes3bU_latest_presentation.ipynb
-COMP9517_Project/yolo_implementation_uttkarsh.ipynb
-COMP9517_Project/yolov3.cfg
-COMP9517_Project/yolov3.weights
-COMP9517_Project/pred.csv
-COMP9517_Project/pred_eval.csv
-COMP9517_Project/X_input.csv
-COMP9517_Project/Y_input.csv
 COMP9517_Project/COMP9517_Individual_Part/.ipynb_checkpoints/COMP9517_Project-checkpoint.ipynb
+COMP9517_Project/COMP9517_Group_Part/yolo_implementation_uttkarsh.ipynb
+COMP9517_Project/COMP9517_Group_Part/YOLO implementation.ipynb
+COMP9517_Project/COMP9517_Group_Part/pred.csv
+COMP9517_Project/COMP9517_Group_Part/pred_eval.csv
+COMP9517_Project/COMP9517_Group_Part/X_input.csv
+COMP9517_Project/COMP9517_Group_Part/Y_input.csv
+COMP9517_Project/COMP9517_Group_Part/yolov3.weights
+COMP9517_Project/COMP9517_Group_Part/yolov3.cfg
