@@ -62,8 +62,12 @@
     </tr>
     <tr>
         <td colspan="5">Total params: 3,798</td>
-        <td>Trainable params: 3,3798</td>
-        <td>Non-trainable params: 0</td>
+    </tr>
+    <tr>
+        <td colspan="5">Trainable params: 3,3798</td>
+    </tr>
+    <tr>
+        <td colspan="5">Non-trainable params: 0</td>
     </tr>
 </table>
 
@@ -123,8 +127,12 @@
     </tr>
     <tr>
         <td colspan="5">Total params: 3,798</td>
-        <td>Trainable params: 3,3798</td>
-        <td>Non-trainable params: 0</td>
+    </tr>
+    <tr>
+        <td colspan="5">Trainable params: 3,3798</td>
+    </tr>
+    <tr>
+        <td colspan="5">Non-trainable params: 0</td>
     </tr>
 </table>
 
